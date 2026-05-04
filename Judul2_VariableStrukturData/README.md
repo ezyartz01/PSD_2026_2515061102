@@ -47,3 +47,5 @@ Judul: Program mengurutkan ranking player terbaik dalam sebuah game berdasarkan 
 
 if __name__ == "__main__":
     main() --> Memulai fungsi utama (main)
+
+Link Youtube: https://youtu.be/mnnV8JfNY-c
