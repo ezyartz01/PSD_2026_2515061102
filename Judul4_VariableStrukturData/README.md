@@ -6,10 +6,10 @@ Program ini adalah sebuah simulasi atau contoh implementasi sederhana dari siste
 
 Meskipun dalam sistem cloud gaming skala industri yang asli melibatkan arsitektur jaringan yang jauh lebih kompleks, contoh program sederhana ini berhasil merangkum prinsip intinya menggunakan struktur data Linked List:
 
-Simulasi Alur Otomatis: Untuk menyederhanakan pengujian, pemain tidak perlu menginput data secara manual. Sistem akan otomatis memberikan nomor urut antrian (1, 2, 3, dst.) menggunakan fitur autoincrement.
+Simulasi Alur Otomatis: Untuk menyederhanakan pengujian, pemain tidak perlu menginput data secara manual. Sistem akan otomatis memberikan nomor urut antrian (1, 2, 3, dst.) menggunakan fitur auto increment.
 
-Representasi Logika FIFO: Mengilustrasikan konsep dasar First-In, First-Out (FIFO) dengan sangat jelas—siapa pemain yang pertama kali mengantre di depan, dia yang akan pertama kali mendapatkan akses ke PC Cloud.
+Representasi Logika FIFO: Mengilustrasikan konsep dasar First-In, First-Out (FIFO) dengan sangat jelas siapa pemain yang pertama kali mengantri di depan, dia yang akan pertama kali mendapatkan akses ke PC Cloud.
 
-Visualisasi Struktur Data: Melalui menu Dashboard, program ini memberikan visualisasi sederhana bagaimana Node dalam Linked List saling terikat (1 -> 2 -> 3) dan bergerak secara dinamis di dalam memori komputer.
+Visualisasi Struktur Data: Melalui menu Dashboard, program ini memberikan visualisasi sederhana bagaimana Node dalam Linked List saling terikat ([1] -> [2] -> [3]) dan bergerak secara dinamis di dalam memori komputer.
 
 Link Youtube: https://youtu.be/peiTT0EvpJk
