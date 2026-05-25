@@ -17,4 +17,4 @@ Struktur utama pencarian biner yang memiliki aturan: nomor seri tiket di sebelah
 7. Total Nilai (Pilihan 9): Menjumlahkan seluruh angka nomor seri tiket (biasanya digunakan untuk keperluan validasi total kecocokan data internal).
 8. Keluar (Pilihan 10): Menghentikan perulangan while loop dan menutup aplikasi keamanan tiket.
 
-Video Youtube: https://youtu.be/cxzow2opr58
+Link Youtube: https://youtu.be/cxzow2opr58
